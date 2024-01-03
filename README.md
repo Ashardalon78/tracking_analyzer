@@ -18,7 +18,7 @@ When using the source code, you need the following software/libraries installed:
 
 USAGE
 -------------------
-* First, you have to download your Google lactaion history. You can do this from https://takeout.google.com/settings/takeout #
+* First, you have to download your Google lactaion history. You can do this from https://takeout.google.com/settings/takeout
 * From the numerous download optins, the only one required is "Location History (Timeline)"
 * Start the tool by executing main.py or calling the exe
 *  Select "Load Location History" and selct the folder "Semantic Location History" in the dowloaded timeline (the folder should contain subfolders named as year dates) 
